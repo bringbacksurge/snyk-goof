@@ -46,7 +46,7 @@
     "st": "1.2.2",
     "stream-buffers": "^3.0.1",
     "tap": "^15.0.10",
-    "snyk": "^1.685.0"
+    "snyk": "^1.812.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
